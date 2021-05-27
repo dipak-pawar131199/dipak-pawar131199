@@ -1,43 +1,18 @@
-- 👋 Hi, I’m Dipak Pawar
-- 👀 I’m interested in do something different,find new,find own solutions
-- 🌱 I’m currently learning in Ferguson College Pune
-     I'm currently taking admission for Post Graduation in MCA
-<!--- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-<!---
-dipak-pawar131199/dipak-pawar131199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Github](https://img.shields.io/github/followers/dipak-pawar131199?label=Follow&style=social)](https://github.com/dipak-pawar131199)
-## ✉️ Find me on:
+<h1 align="center">Hi 👋, I'm Dipak Pawar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **Python**
 
-<p align="center">
- <a href="https://dipak-pawar131199.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <!---<a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- --->
- <a href="dipak131199@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+- 📫 How to reach me **dipak131199@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerearth.com/dipak131199@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="dipak131199@gmail.com" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🧰 Languages I Used:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipak-pawar&show_icons=true&locale=en&layout=compact" alt="dipak-pawar" /></p>
 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
-</p>
-<br />
-## 📎Databases I Used:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/MySQL/MySQL.png" alt=" MySQL " height="40" style="vertical-align:top; margin:4px">
-<img src="https://images.app.goo.gl/XbWj5QmWfpLX2z9n8"></p>
-<br />
-## 📎 GitHub Status:
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<dipak-pawar131199>&theme=<THEME_NAME>" />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dipak-pawar131199&show_icons=true&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipak-pawar&show_icons=true&locale=en" alt="dipak-pawar" /></p>
