@@ -16,4 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipak-pawar131199&show_icons=true&locale=en&layout=compact" alt="dipak-pawar" /></p>--->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipak-pawar131199&show_icons=true&locale=en" alt="dipak-pawar" /></p>
-<H3 align="left">
+<H3 align="left"> Visitors Count:<H3>
+![Visitor Count](https://profile-counter.glitch.me/{dipak-pawar131199}/count.svg)
