@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Pawar</h1>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently Pursing In MCA ****
 
 - 📫 How to reach me **dipak131199@gmail.com**
 <!--
